@@ -1,3 +1,8 @@
 hallo das ist das main file
 
+<<<<<<< HEAD
 das ist edit nr 2
+=======
+edit 1
+
+>>>>>>> a3ce72f (editTestFile)
